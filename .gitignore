@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/04-Class attributes/Lab04/task/build/
+/04-Class attributes/Lab04/task/build/classes/java/main/
+/04-Class attributes/Lab04/task/build/classes/java/test/

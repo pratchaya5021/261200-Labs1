@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/01-Intro/Lab01/Overview of Sudoku" />
+            <option value="$PROJECT_DIR$/01-Intro/Lab01/Programming 1" />
+            <option value="$PROJECT_DIR$/01-Intro/Lab01/Programming 2" />
+            <option value="$PROJECT_DIR$/01-Intro/Lab01/Programming 3" />
+            <option value="$PROJECT_DIR$/01-Intro/Lab01/Programming 4" />
+            <option value="$PROJECT_DIR$/01-Intro/Lab01/Programming 5" />
+            <option value="$PROJECT_DIR$/01-Intro/Lab01/Quiz" />
+            <option value="$PROJECT_DIR$/01-Intro/Lab01/Quiz (1)" />
+            <option value="$PROJECT_DIR$/01-Intro/Lab01/Quiz (2)" />
+            <option value="$PROJECT_DIR$/01-Intro/Lab01/Quiz (3)" />
+            <option value="$PROJECT_DIR$/02-Classes and objects/Lab02/task" />
+            <option value="$PROJECT_DIR$/03-Encapsulation/Lab03/task" />
+            <option value="$PROJECT_DIR$/04-Class attributes/Lab04/task" />
+            <option value="$PROJECT_DIR$/Lab05/Article 1" />
+            <option value="$PROJECT_DIR$/Lab05/Article 2" />
+            <option value="$PROJECT_DIR$/Lab05/Programming 1" />
+            <option value="$PROJECT_DIR$/Lab05/Programming 2" />
+            <option value="$PROJECT_DIR$/Lab05/Programming 3" />
+            <option value="$PROJECT_DIR$/Lab05/Programming 4" />
+            <option value="$PROJECT_DIR$/Lab05/Quiz 1" />
+            <option value="$PROJECT_DIR$/Lab05/Quiz 2" />
+            <option value="$PROJECT_DIR$/Lab05/Quiz 3" />
+            <option value="$PROJECT_DIR$/Lab06/Article 1" />
+            <option value="$PROJECT_DIR$/Lab06/Quiz 1" />
+            <option value="$PROJECT_DIR$/Lab07/Article 1" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

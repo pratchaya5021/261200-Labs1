@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="01-Intro-Lab01-Overview_of_Sudoku_main" target="1.8" />
+      <module name="01-Intro-Lab01-Overview_of_Sudoku_test" target="1.8" />
+      <module name="01-Intro-Lab01-Programming_1_main" target="1.8" />
+      <module name="01-Intro-Lab01-Programming_1_test" target="1.8" />
+      <module name="01-Intro-Lab01-Programming_2_main" target="1.8" />
+      <module name="01-Intro-Lab01-Programming_2_test" target="1.8" />
+      <module name="01-Intro-Lab01-Programming_3_main" target="1.8" />
+      <module name="01-Intro-Lab01-Programming_3_test" target="1.8" />
+      <module name="01-Intro-Lab01-Programming_4_main" target="1.8" />
+      <module name="01-Intro-Lab01-Programming_4_test" target="1.8" />
+      <module name="01-Intro-Lab01-Programming_5_main" target="1.8" />
+      <module name="01-Intro-Lab01-Programming_5_test" target="1.8" />
+      <module name="01-Intro-Lab01-Quiz_(1)_main" target="1.8" />
+      <module name="01-Intro-Lab01-Quiz_(1)_test" target="1.8" />
+      <module name="01-Intro-Lab01-Quiz_(2)_main" target="1.8" />
+      <module name="01-Intro-Lab01-Quiz_(2)_test" target="1.8" />
+      <module name="01-Intro-Lab01-Quiz_(3)_main" target="1.8" />
+      <module name="01-Intro-Lab01-Quiz_(3)_test" target="1.8" />
+      <module name="01-Intro-Lab01-Quiz_main" target="1.8" />
+      <module name="01-Intro-Lab01-Quiz_test" target="1.8" />
+      <module name="02-Classes_and_objects-Lab02-task_main" target="1.8" />
+      <module name="02-Classes_and_objects-Lab02-task_test" target="1.8" />
+      <module name="03-Encapsulation-Lab03-task_main" target="1.8" />
+      <module name="03-Encapsulation-Lab03-task_test" target="1.8" />
+      <module name="04-Class_attributes-Lab04-task_main" target="1.8" />
+      <module name="04-Class_attributes-Lab04-task_test" target="1.8" />
+      <module name="Lab05-Article_1_main" target="1.8" />
+      <module name="Lab05-Article_1_test" target="1.8" />
+      <module name="Lab05-Article_2_main" target="1.8" />
+      <module name="Lab05-Article_2_test" target="1.8" />
+      <module name="Lab05-Programming_1_main" target="1.8" />
+      <module name="Lab05-Programming_1_test" target="1.8" />
+      <module name="Lab05-Programming_2_main" target="1.8" />
+      <module name="Lab05-Programming_2_test" target="1.8" />
+      <module name="Lab05-Programming_3_main" target="1.8" />
+      <module name="Lab05-Programming_3_test" target="1.8" />
+      <module name="Lab05-Programming_4_main" target="1.8" />
+      <module name="Lab05-Programming_4_test" target="1.8" />
+      <module name="Lab05-Quiz_1_main" target="1.8" />
+      <module name="Lab05-Quiz_1_test" target="1.8" />
+      <module name="Lab05-Quiz_2_main" target="1.8" />
+      <module name="Lab05-Quiz_2_test" target="1.8" />
+      <module name="Lab05-Quiz_3_main" target="1.8" />
+      <module name="Lab05-Quiz_3_test" target="1.8" />
+      <module name="Lab06-Article_1_main" target="1.8" />
+      <module name="Lab06-Article_1_test" target="1.8" />
+      <module name="Lab06-Quiz_1_main" target="1.8" />
+      <module name="Lab06-Quiz_1_test" target="1.8" />
+      <module name="Lab07-Article_1_main" target="1.8" />
+      <module name="Lab07-Article_1_test" target="1.8" />
+      <module name="util_main" target="1.8" />
+      <module name="util_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
